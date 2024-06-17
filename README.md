@@ -1,5 +1,7 @@
 # Hackintosh, DELL OptiPlex 3090 MFF, Core i5 10500T, 32GB RAM, iGPU
 
+![Overview](https://github.com/luchina-gabriel/EFI-DELL-OPTIPLEX-3090-INTEL-i5-10500T-iGPU-PUBLIC/assets/23700365/1c6ea73e-9ac1-49a5-b907-bfc0ff4b053b)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
