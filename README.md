@@ -28,7 +28,7 @@
 
 |Part|Link to Buy|
 |-|:-------:|
-|SSD Kingston NV2, 1TB)|[Buy/Comprar](https://mercadolivre.com/sec/249FvNQ)|
+|Mini PC DELL OptiPlex 3090 MFF, i5 10500T|[Buy/Comprar](https://mercadolivre.com/sec/249FvNQ)|
 
 ## Hackintosh Creator
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
